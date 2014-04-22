@@ -6,6 +6,7 @@
 standard-app-packages
 autopublish
 insecure
-bootstrap
 jquery
 sass
+bootstrap-3
+font-awesome

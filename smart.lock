@@ -2,13 +2,25 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "sass": {}
+      "sass": {},
+      "bootstrap-3": {},
+      "font-awesome": {}
     },
     "packages": {
       "sass": {
         "git": "https://github.com/particle4dev/meteor-sass.git",
         "tag": "v0.1.2",
         "commit": "162f595afe17dbebd3c61156ea1e4ac4ee0007ed"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
+      },
+      "font-awesome": {
+        "git": "https://github.com/nate-strauser/meteor-font-awesome.git",
+        "tag": "v4.0.3",
+        "commit": "61e9361384347547ae144f8228faa4deffda23db"
       }
     }
   }
